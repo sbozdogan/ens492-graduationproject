@@ -2,7 +2,6 @@
 """
 Created on Sun Oct 29 11:59:44 2017
 
-@author: alihan
 """
 problar=[0.0,0.0001,0.001,0.01,0.1,0.3,0.5,0.7,1.0]
 for problarınici in problar:
